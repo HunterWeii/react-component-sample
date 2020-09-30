@@ -15,7 +15,7 @@ After done install with `create-react-app`, install the following package:
 
 install:  
 ```
-npm install classnames props-types styled-components styled-tools loadash
+npm install classnames prop-types styled-components styled-tools lodash
 ```
 
 story book install:  
